@@ -1,4 +1,4 @@
-# embedded-
+# Embedded C Activities
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/032df66ff733464c9ec81b59bb1fbcc6)](https://app.codacy.com/gh/SoniaPunjabi/embedded-?utm_source=github.com&utm_medium=referral&utm_content=SoniaPunjabi/embedded-&utm_campaign=Badge_Grade_Settings)
 
